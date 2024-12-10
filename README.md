@@ -2,6 +2,8 @@
 
 A command-line application for creating and simulating vehicles including cars, trucks and motorbikes.
 
+![Demo of application running in the console](media/screenshot.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
